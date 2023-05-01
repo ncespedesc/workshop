@@ -1,19 +1,23 @@
 instructors:
-  - name: Albus Dumbledore
+  - name: Nicolas Cardenas
     profile_pic: /_images/pp/dumbledore.jpg
     webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
-  - name: Minerva McGonagall
-    profile_pic: /_images/pp/mcgonagall.jpg
-
-teaching_assistants:
-  - name: Harry Potter
+  - name: Gustavo Machado
     profile_pic: /_images/pp/potter.jpg
     webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
 
-  - name: Hermione Granger
-    profile_pic: /_images/pp/granger.jpg
+teaching_assistants:
+  - name: Manuel Sanchez
+    profile_pic: /_images/pp/potter.jpg  
+
+  - name: Diego Viali
+    profile_pic: /_images/pp/potter.jpg
     webpage: https://en.wikipedia.org/wiki/Hermione_Granger
 
-  - name: Ron Weasley
+  - name: Daniel  Magalhaes
     profile_pic: /_images/pp/weasley.jpg
     webpage: https://en.wikipedia.org/wiki/Ron_Weasley
+
+  - name: Glaucia
+    profile_pic: /_images/pp/mcgonagall.jpg
+    webpage: https://en.wikipedia.org/wiki/Hermione_Granger
