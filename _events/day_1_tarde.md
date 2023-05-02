@@ -1,0 +1,12 @@
+---
+type: raw_event
+date: 2023-05-29T14:0:0+4:30
+description: 'Essential concepts of disease transmission modeling'
+hide_from_announcments: true
+---
+**Revisiting FMD and response plans:**
+1. Review the importance of response plans in outbreak events (Gustavo)
+2. Introduction to disease transmission models (Gustavo)
+3. Application of simulation model in the design and revision of control strategies. (Gustavo)
+4. The integration of model outputs in an outbreak event (Nico)
+
