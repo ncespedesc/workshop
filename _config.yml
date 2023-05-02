@@ -1,23 +1,37 @@
 # Site settings
 course_name: Workshop the use of transmission models to simulate foot-and-mouth disease epidemics and the implementation of control actions 
-course_description: "In this five-day workshop, we provide a gentle introduction to a range of mathematical models used to simulate the spread and control of livestock diseases. You learn how such models can be used to make informed decisions **before**, **during**, and **after** an animal health emergency.
+course_description: "In this five-day workshop, we provide a gentle introduction to a range of mathematical models used to simulate the spread and control of livestock diseases. You learn how such models can be used to make informed decisions before, during, and after an animal health emergency.
 <br /> We will focus on the application of such epidemiological models while demonstrating their use with real data while simulating FMD outbreaks."
-course_semester: "Rio de Janeiro, May 29  to June 2nd, 2023"
+course_semester: "Rio de Janeiro, May 29th to June 2nd, 2023"
 
 baseurl: "/workshop" # the subpath of your site, e.g. /blog/
 url: "http://ncespedesc.github.io/" # the base hostname & protocol for your site
 
-schoolname: "PANAFTOSA"
-schoolurl: "https://machado-lab.github.io/"
-twitter_username: username 
+schoolname: "NCSU"
+schoolurl: "https://cvm.ncsu.edu/"
+newline_to_br: "NCSU"
+twitter_username: Gustavoetal  
 
 address: |
     Centro Panamericano de Febre Aftosa, Av. Governador Leonel de Moura Brizola, 7778 - Parque Sao Bento, Duque de Caxias
-    Rio de Janeiro, Brazil
+    Rio de Janeiro, Brazil.
+
 
 
 
 ### Do not change the followings unless you know what you are doing ###
+
+# Site Footer
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter fa-2x"
+      url: "https://twitter.com/Machado_lab"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github fa-2x"
+      url: "https://github.com/machado-lab"
+
 
 # Build settings
 markdown: kramdown

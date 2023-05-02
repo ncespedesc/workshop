@@ -1,23 +1,20 @@
 instructors:
   - name: Nicolas Cardenas
-    profile_pic: /_images/pp/dumbledore.jpg
-    webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
+    profile_pic: /_images/pp/nico.png
+    webpage: https://www.linkedin.com/in/ncespedesc/
   - name: Gustavo Machado
-    profile_pic: /_images/pp/potter.jpg
+    profile_pic: /_images/pp/gustavom.png
     webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
 
 teaching_assistants:
   - name: Manuel Sanchez
-    profile_pic: /_images/pp/potter.jpg  
+    profile_pic: /_images/pp/manuels.jpeg
+    webpage: https://www.linkedin.com/in/manuel-j-sanchez-vazquez-774853215/
 
   - name: Diego Viali
-    profile_pic: /_images/pp/potter.jpg
-    webpage: https://en.wikipedia.org/wiki/Hermione_Granger
+    profile_pic: /_images/pp/Diegos.jpg
+    webpage: https://www.linkedin.com/in/diego-viali-dos-santos-b15560b0/?originalSubdomain=br
 
   - name: Daniel  Magalhaes
-    profile_pic: /_images/pp/weasley.jpg
-    webpage: https://en.wikipedia.org/wiki/Ron_Weasley
-
-  - name: Glaucia
-    profile_pic: /_images/pp/mcgonagall.jpg
-    webpage: https://en.wikipedia.org/wiki/Hermione_Granger
+    profile_pic: /_images/pp/danielm.png
+    webpage: https://www.linkedin.com/in/daniel-magalh%C3%A3es-lima-64267685/
