@@ -14,7 +14,7 @@ due_event:
 Dear participant, we will work with data modeling and disease model simulations. However, to explore the full potential of the model, make it easier to understand and propose control action and follow all activities, the participants should have a minimum of knowledge about modeling. Thus, the next activities are aimed to leave all the participants on the same page. 
 
 ## **First activity**
-Please, read the manuscript title “A Practical Introduction to Mechanistic Modeling of Disease Transmission in Veterinary Science”.
+Please, read the manuscript title “A Practical Introduction to Mechanistic Modeling of Disease Transmission in Veterinary Science”, you can download by [**clicking here**](https://www.frontiersin.org/articles/10.3389/fvets.2020.546651/full).
 Then, please reply to the following question in a maximum of one page.  The document should contain your name and institution and could be sent in either a Word document or a PDF file. 
 
 ## **Questions**
@@ -41,8 +41,7 @@ participantes deben tener un mínimo de conocimientos sobre modelaje. Por lo tan
 próximas actividades tienen como objetivo dejar a todos los participantes en la misma
 página.
 ### Primera actividad
-Por favor, lea el título del manuscrito “The use of transmission models to simulate FMD
-epidemics and the implementation of countermeasure actions”, al que puede acceder
+Por favor, lea el título del manuscrito “A Practical Introduction to Mechanistic Modeling of Disease Transmission in Veterinary Science”, al que puede acceder
 haciendo [**clic aquí**](https://www.frontiersin.org/articles/10.3389/fvets.2020.546651/full).
 Luego, responda a las siguientes preguntas en un máximo de una página. El documento
 debe contener su nombre, su institución y puede enviarse en un documento de Word o en

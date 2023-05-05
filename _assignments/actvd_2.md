@@ -13,7 +13,7 @@ due_event:
 Dear participant, we will work with data modeling and disease model simulations. However, to explore the full potential of the model, make it easier to understand and propose control action and follow all activities, the participants should have a minimum of knowledge about modeling. Thus, the next activities are aimed to leave all the participants on the same page. 
 
 ## **Second assignment**
-Please, read the manuscript title “Challenges and opportunities for using national animal datasets to support foot-and-mouth disease control” which can be accessed by clicking [**here**](https://doi-org.prox.lib.ncsu.edu/10.1111/tbed.13858). No pdf file avalaible here since is not an open acces paper.
+Please, read the manuscript title “Challenges and opportunities for using national animal datasets to support foot-and-mouth disease control” which can be accessed by clicking [**here**](https://onlinelibrary.wiley.com/doi/10.1111/tbed.13858). No pdf file avalaible here since is not an open acces paper.
 Then, please reply to the following question in a maximum of one page.  The document should contain your name and institution and could be sent in either a Word document or a PDF file. 
 
 ## **Questions**
@@ -32,7 +32,7 @@ Then, please reply to the following question in a maximum of one page.  The docu
 ### Segunda actividad
 Estimado participante, en todos los países de América Latina, las bases de datos nacionales sobre
 números de granjas y movimientos de animales brindan los cimientos esenciales para la
-preparación ante enfermedades para las investigaciones de brotes y actividades de control. El artículo, “Challenges and opportunities for using national animal datasets to support foot-and-mouth disease control”, explora diferentes ejercicios que autoridades pueden utilizar pararespaldar las decisiones en el control de la fiebre aftosa. Se puede acceder al artículo en [**este enlace**](https://doi-org.prox.lib.ncsu.edu/10.1111/tbed.13858). Una vez que haya leído el artículo, por favor responda a las siguientes preguntas. Por favor, no
+preparación ante enfermedades para las investigaciones de brotes y actividades de control. El artículo, “Challenges and opportunities for using national animal datasets to support foot-and-mouth disease control”, explora diferentes ejercicios que autoridades pueden utilizar pararespaldar las decisiones en el control de la fiebre aftosa. Se puede acceder al artículo en [**este enlace**](https://onlinelibrary.wiley.com/doi/10.1111/tbed.13858). Una vez que haya leído el artículo, por favor responda a las siguientes preguntas. Por favor, no
 exceder de una página en total. El documento que contenga sus respuestas también debe
 incluir su nombre e institución. Las respuestas se pueden enviar como un documento de
 Word o un archivo PDF.
