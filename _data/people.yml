@@ -1,0 +1,27 @@
+instructors:
+  - name: Nicolas Cardenas
+    profile_pic: /_images/pp/nico.png
+    webpage: https://www.linkedin.com/in/ncespedesc/
+  - name: Gustavo Machado
+    profile_pic: /_images/pp/gustavom.png
+    webpage: https://machado-lab.github.io/
+teaching_assistants:
+  - name: Manuel Sanchez
+    profile_pic: /_images/pp/manuels.jpeg
+    webpage: https://www.linkedin.com/in/manuel-j-sanchez-vazquez-774853215/
+
+  - name: Diego Viali
+    profile_pic: /_images/pp/Diegos.jpg
+    webpage: https://www.linkedin.com/in/diego-viali-dos-santos-b15560b0/?originalSubdomain=br
+
+  - name: Daniel  Magalhaes
+    profile_pic: /_images/pp/danielm.png
+    webpage: https://www.linkedin.com/in/daniel-magalh%C3%A3es-lima-64267685/
+
+  - name: Glaucia Silva
+    profile_pic: /_images/pp/glaucia.jpeg
+    webpage: https://www.linkedin.com/in/daniel-magalh%C3%A3es-lima-64267685/
+
+  - name: Lia Puppim Buzanovsky
+    profile_pic: /_images/pp/lia.jpg
+    webpage: https://www.linkedin.com/in/daniel-magalh%C3%A3es-lima-64267685/
