@@ -19,7 +19,7 @@ Here we will post the R codes to run the model
 * [scenario #1](https://github.com/machado-lab/MHASpread_workshop_PAHO/tree/main/Control_action_scenarios/scenario_1/): how a computer chess player thinks!
 * [scenario #2](https://github.com/machado-lab/MHASpread_workshop_PAHO/tree/main/Control_action_scenarios/scenario_2): how a computer chess player thinks!
 * [scenario #3](https://github.com/machado-lab/MHASpread_workshop_PAHO/tree/main/Control_action_scenarios/scenario_3): how a computer chess player thinks!
-* [scenario #3](https://github.com/machado-lab/MHASpread_workshop_PAHO/tree/main/Control_action_scenarios/scenario_4): how a computer chess player thinks!
+* [scenario #4](https://github.com/machado-lab/MHASpread_workshop_PAHO/tree/main/Control_action_scenarios/scenario_4): how a computer chess player thinks!
 
 
 ## Additional Course Materials
