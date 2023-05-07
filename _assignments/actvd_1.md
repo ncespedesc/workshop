@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2023-05-01T4:00:00+4:30
-title: 'Assignment # 1 - Introduction to disease spread'
+title: 'Assignment # 1 - Introduction to disease spread (Dealine 05/12/2023)'
 pdf: /static_files/presentations/fvets-07-546651.pdf
 due_event: 
     type: due
@@ -54,5 +54,4 @@ un archivo PDF.
     * Infeccioso (I)
     * Expuesto (E)
     * Recuperado (R)
-
 3. Describir la diferencia entre un modelo determinista y estocástico.

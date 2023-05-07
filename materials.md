@@ -4,14 +4,12 @@ title: Materials
 permalink: /materials/
 ---
 
-
-
 {% include image.html url="/_images/rstudiologo.png" width=400 align="right" %}
 
 # Scripts to be used drutrin the curse  
 Here we will post the R codes to run the model 
 
-## some packages to install here 
+## Some packages to install here 
 * [Script #1](http://www.example.com/): how a computer chess player thinks!
 
 ## Simulation scerarios here
