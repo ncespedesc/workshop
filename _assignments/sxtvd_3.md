@@ -28,7 +28,7 @@ Please, read the manuscript title “Understanding the transmission of foot-and-
 ### Segunda actividad
 Estimado participante, reconocer que las principales rutas de transmisión de la fiebre aftosa es fundamental para comprender la propagación de la enfermedad y luego diseñar acciones de control. El manuscrito citado aquí, destaca la relevancia de algunos puntos que deben ser considerados como veterinario oficial durante una emergencia por brote de enfermedad.
 
-Por favor, lea el título del manuscrito “Comprender la transmisión del virus de la fiebre aftosa a diferentes escalas” al que puede acceder haciendo clic aquí. Una vez que haya leído el artículo, por favor responda a las siguientes preguntas. Por favor, no exceda un máximo de una página en total. El documento que contenga sus respuestas también debe incluir su nombre e institución. Las respuestas se pueden enviar como un documento de Word o un archivo PDF.
+Por favor, lea el título del manuscrito “Comprender la transmisión del virus de la fiebre aftosa a diferentes escalas” al que puede acceder haciendo [clic aquí](https://doi.org/10.1016/j.coviro.2017.11.013). Una vez que haya leído el artículo, por favor responda a las siguientes preguntas. Por favor, no exceda un máximo de una página en total. El documento que contenga sus respuestas también debe incluir su nombre e institución. Las respuestas se pueden enviar como un documento de Word o un archivo PDF.
 
 ### Actividades a desarrollar
 
