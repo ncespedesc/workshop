@@ -9,9 +9,9 @@ permalink: /materials/
 # Scripts to be used drutrin the curse  
 Here we will post the R codes to run the model 
 
-## Some packages to install here 
-* [Script #1](http://www.example.com/): how a computer chess player thinks!
 
+## Some packages to install here 
+* [Install packages for R and Python](https://github.com/machado-lab/MHASpread_workshop_PAHO/blob/main/package_to_install_in_R/package_to_install.R): Install some package and get ready fro the model!!!
 ## Simulation scerarios here
 
 * [scenario #1](https://github.com/machado-lab/MHASpread_workshop_PAHO/tree/main/Control_action_scenarios/scenario_1/): how a computer chess player thinks!
