@@ -4,15 +4,14 @@ title: Materials
 permalink: /materials/
 ---
 
-{% include image.html url="/_images/rstudiologo.png" width=400 align="right" %}
-
-# Scripts to be used drutrin the curse  
-Here we will post the R codes to run the model 
+# Scripts for the workshop
+Here we will post R codes to run the model.
 
 
-## Some packages to install here 
+## Please install these packages
 * [Install packages for R and Python](https://github.com/machado-lab/MHASpread_workshop_PAHO/blob/main/package_to_install_in_R/package_to_install.R): Install some package and get ready fro the model!!!
-## Simulation scerarios here
+
+## Simulation scerarios
 
 * [scenario #1](https://github.com/machado-lab/MHASpread_workshop_PAHO/tree/main/Control_action_scenarios/scenario_1/): how a computer chess player thinks!
 * [scenario #2](https://github.com/machado-lab/MHASpread_workshop_PAHO/tree/main/Control_action_scenarios/scenario_2): how a computer chess player thinks!
@@ -20,8 +19,8 @@ Here we will post the R codes to run the model
 * [scenario #4](https://github.com/machado-lab/MHASpread_workshop_PAHO/tree/main/Control_action_scenarios/scenario_4): how a computer chess player thinks!
 
 
-## Additional Course Materials
-### How to Installing R and RStudio
+## Additional course material
+### How to installing R and RStudio
 
 [Portugues tutotial here](http://leg.ufpr.br/~fernandomayer/aulas/ce083-2016-2/R-instalacao.html#) <br />
 [Spanish tutotial here](https://sissa.crc-sas.org/wp-content/uploads/2020/10/Instalacion_R.html)
@@ -32,7 +31,7 @@ Here we will post the R codes to run the model
 
 To see the original context version see here from the [R-studio education project](https://education.rstudio.com/learn/)
 
->To get started with R, you need to acquire your own copy. This appendix will show you how to download R as well as RStudio, a software application that makes R easier to use. You’ll go from downloading R to opening your first R session.
+>To get started with R, you need to acquire your own copy. This appendix show you how to download R as well as RStudio, a software application that makes R easier to use. You’ll go from downloading R to opening your first R session.
 
 > Both R and RStudio are free and easy to download.
 
@@ -58,3 +57,5 @@ RStudio is an application like Microsoft Word—except that instead of helping y
 
 You can [download RStudio](https://www.rstudio.com/products/rstudio/) for free. Just click the “Download RStudio” button and follow the simple instructions that follow. Once you’ve installed RStudio, you can open it like any other program on your computer—usually by clicking an icon on your desktop.
 
+
+{% include image.html url="/_images/rstudiologo.png" width=400 align="left" %}
