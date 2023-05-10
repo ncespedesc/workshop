@@ -14,20 +14,20 @@ layout: default
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
      <h2> Aims of the workshop</h2>
-    <h3> Learn how to use the MHASpread v.0.2.0 package, introduction, and control of FMD </h3>
+    <h3> Learn how to use the MHASpread v.0.2.0 package, model introduction, and control of FMD </h3>
 
     <ol>
         <li>Overview of the model outputs and their interpretation.</li>
-        <li> MHASpread to simulate FMD countermeasure actions (depopulation, vaccination, and traceability).</li>
-        <li>To be exposed to additional transmission models.</li>
+        <li>MHASpread to simulate FMD countermeasure actions (depopulation, vaccination, and traceability).</li>
+        <li>Analyze additional transmission models.</li>
       </ol>
 
       <i class="material-icons">computer </i> 
       <h2> Computer requirements </h2>
-      <h3>General, any computer medium to high quality released during the last five years should be able to support R and Rstudio,
-         however, there are minimum computer requirements that should be considered:</h3> 
+      <h3>Generally, any computer of medium to high quality released during the last five years should be able to support R and Rstudio,
+         however, there are some computer requirements that should be considered:</h3> 
       <ol>
-        <li>Intel Core i5 (4 CPUs) 6th generation or above or equivalent AMD X8 @ 4GHZ (8 CPUs) or above.</li>
+        <li>Intel Core i5 (4 CPUs) 6th generation or above; or equivalent AMD X8 @ 4GHZ (8 CPUs) or above.</li>
         <li> Memory: 8GB.</li>
         <li>HDD Space: 65GB.</li>
       </ol>
@@ -37,7 +37,7 @@ layout: default
     {{ content }}
 
     {% if site.data.previous_offering and site.data.previous_offering.offerings and site.data.previous_offering.offerings.size > 0 %}
-    <h2>Previous Offerings</h2>
+    <h2>Previous Workshops</h2>
     <ul class="previous-offerings">
     {% for offer in site.data.previous_offering.offerings %}
     <li><a href="{{ offer.url }}">{{offer.title}}</a></li>

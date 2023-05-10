@@ -8,7 +8,7 @@ permalink: /materials/
 Here we will post R codes to run the model.
 
 ## Please install these packages
-* [Install packages for R and Python](https://github.com/machado-lab/MHASpread_workshop_PAHO/blob/main/package_to_install_in_R/package_to_install.R): Install some package and get ready for the model.
+* [Install packages for R and Python](https://github.com/machado-lab/MHASpread_workshop_PAHO/blob/main/package_to_install_in_R/package_to_install.R): Install the required packages that will be used in the model.
 
 ## Simulation scenarios
 
@@ -23,7 +23,7 @@ Here we will post R codes to run the model.
 
 * [Video in Portuguese](https://www.youtube.com/watch?v=XsZLq6NpYOY&ab_channel=InferirEstat%C3%ADstica) and the [written](http://leg.ufpr.br/~fernandomayer/aulas/ce083-2016-2/R-instalacao.html#) tutorial about how to install Rstudio  <br />
 
-* [video in Spanish](https://www.youtube.com/watch?v=D9Bp11iZssc&ab_channel=HanselOchoaMontero) and the [written](https://sissa.crc-sas.org/wp-content/uploads/2020/10/Instalacion_R.html) tutorial about how to install Rstudio
+* [Video in Spanish](https://www.youtube.com/watch?v=D9Bp11iZssc&ab_channel=HanselOchoaMontero) and the [written](https://sissa.crc-sas.org/wp-content/uploads/2020/10/Instalacion_R.html) tutorial about how to install Rstudio
 
 To see the original context version, see here from the [R-studio education project](https://education.rstudio.com/learn/)
 
@@ -49,7 +49,7 @@ The download pages on CRAN’s website provide information about building R from
 
 ## How to install R and RStudio
 
-RStudio is an application like Microsoft Word—except that instead of helping you write in English, RStudio helps you write in R. I use RStudio throughout the book because it makes using R much easier. Also, the RStudio interface looks the same for Windows, macOS, and Linux. That will help me match the book to your personal experience.
+RStudio is an application like Microsoft Word—except that instead of helping you write in English, RStudio helps you write in R. I use RStudio throughout the workshop because it makes using R much easier. Also, the RStudio interface looks the same for Windows, macOS, and Linux.
 
 You can [download RStudio](https://www.rstudio.com/products/rstudio/) for free. Just click the “Download RStudio” button and follow the simple instructions. Once you’ve installed RStudio, you can open it like any other program on your computer—usually by clicking an icon on your desktop.
 

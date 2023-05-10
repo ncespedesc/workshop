@@ -1,7 +1,8 @@
 # Site settings
-course_name: Workshop the use of transmission models to simulate foot-and-mouth disease epidemics and the implementation of control actions 
+course_name: Workshop on the use of transmission models to simulate foot-and-mouth disease epidemics and the implementation of control actions 
 
-course_description: "In this five-day workshop, we provide a gentle introduction to various mathematical models used to simulate the spread and control of livestock diseases. You learn how such models can be used to make informed decisions before, during, and after an animal health emergency. We will focus on applying such epidemiological models while demonstrating their use with real data while simulating FMD outbreaks."
+course_description: "In this five-day workshop, we provide a gentle introduction to a range of mathematical models used to simulate the spread and control of livestock diseases. You will learn how such models can be used to make informed decisions before, during, and after an animal health emergency. We will focus on the application of such epidemiological models while demonstrating their use with real data in simulated FMD outbreaks."
+
 
 course_semester: "Rio de Janeiro, May 29th to June 2nd, 2023"
 

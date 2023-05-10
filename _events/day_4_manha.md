@@ -13,6 +13,6 @@ _Simulate FMD introduction and spread from swine, bovine, and small ruminant pop
 
 _Simulation of alternative control scenarios_
 
-1. change control zone sizes.
+1. Change control zone sizes.
 2. Contact tracing of movement networks. 
-4. Increase the duration of control zones and surveillance activities.
+3. Increase the duration of control zones and surveillance activities.
