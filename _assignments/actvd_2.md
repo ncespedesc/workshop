@@ -1,26 +1,27 @@
 ---
 type: assignment
-date: 2023-05-02T4:00:00+4:30
+date: 2023-11-16T8:00:00+4:30
 title: 'Assignment # 2 - Use of data to prepare against FMD (Dealine 05/19/2023)'
+pdf: /static_files/presentations/fvets-07-546651.pdf
 due_event: 
     type: due
-    date: 2023-05-19T0:00:00+4:30
+    date: 2018-09-16T8:00:00+4:30
     description: 'Use of data to prepare against FMD'
 ---
 # Challenges and opportunities for using national animal datasets to support foot-and-mouth disease control
 
 ## **Pre-workshop activities**
-Dear participant, we will work with data modeling and disease model simulations. However, to explore the full potential of the model, make it easier to understand and propose control action and follow all activities, the participants should have a minimum of knowledge about modeling. Thus, the next activities are aimed to leave all the participants on the same page. 
+Dear participant, we will work with data modeling and disease model simulations. However, to explore the full potential of the model, make it easier to understand and propose control action and follow all activities, the participants should have a minimum of knowledge about modeling. Thus, the next activities aim to leave all the participants on the same page. 
 
 ## **Second assignment**
-Please, read the manuscript title “Challenges and opportunities for using national animal datasets to support foot-and-mouth disease control” which can be accessed by clicking [**here**](https://onlinelibrary.wiley.com/doi/10.1111/tbed.13858). No pdf file avalaible here since is not an open acces paper.
+Please, read the manuscript title “Challenges and opportunities for using national animal datasets to support foot-and-mouth disease control,” which can be accessed by clicking [**here**](https://onlinelibrary.wiley.com/doi/10.1111/tbed.13858). No PDF file is available here since it is not an open-access paper.
 Then, please reply to the following question in a maximum of one page.  The document should contain your name and institution and could be sent in either a Word document or a PDF file. 
 
 ## **Questions**
-1.  Briefly, cite an example of:
+1.  Briefly cite an example of:
     * Surveillance to maintain disease freedom.
 2. Risk pathways for disease entry.
-    * Please describe the eradication activities in FMD endemic countries
+    * Please describe the eradication activities in FMD-endemic countries
     * Progressive control pathway framework.
     * Data requirements for FMD preparedness.
 

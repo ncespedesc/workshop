@@ -1,8 +1,8 @@
 ---
 type: lecture
-date: 2023-10-16T8:20:00+4:30
-title: 1. MHASpread workshop Welcome introductions
-tldr: "Use of transmission models to simulate the spread of livestock diseases."
+date: 2023-10-16T8:10:00+4:30
+title: 2. Importance of the response plan in outbreak events
+tldr: "The use of data and models"
 links: 
    # - url: /static_files/presentations/lec.zip
     #  name: notes
@@ -12,4 +12,4 @@ links:
       name: slides
 ---
 **Suggested Readings:**
-- [Reading](https://www.biorxiv.org/content/10.1101/2022.06.14.496159v3)
+- [Reading](https://onlinelibrary.wiley.com/doi/10.1111/tbed.14007)
