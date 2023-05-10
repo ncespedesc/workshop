@@ -1,11 +1,11 @@
 ---
 type: assignment
-date: 2023-11-16T8:00:00+4:30
+date: 2023-05-12T8:00:00+4:30
 title: 'Assignment # 2 - Use of data to prepare against FMD (Dealine 05/19/2023)'
 pdf: /static_files/presentations/fvets-07-546651.pdf
 due_event: 
     type: due
-    date: 2018-09-16T8:00:00+4:30
+    date: 2023-05-19T8:00:00+4:30
     description: 'Use of data to prepare against FMD'
 ---
 # Challenges and opportunities for using national animal datasets to support foot-and-mouth disease control

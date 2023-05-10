@@ -1,11 +1,11 @@
 ---
 type: assignment
-date: 2023-11-16T8:00:00+4:30
+date: 2023-05-10T8:00:00+4:30
 title: 'Assignment # 1 - Introduction to disease spread (Dealine 05/12/2023)'
 pdf: /static_files/presentations/fvets-07-546651.pdf
 due_event: 
     type: due
-    date: 2018-09-16T8:00:00+4:30
+    date: 2023-05-12T8:00:00+4:30
     description: 'Introduction to disease spread'
 ---
 # A Practical Introduction to Mechanistic Modeling of Disease Transmission in Veterinary Science
