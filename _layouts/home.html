@@ -32,7 +32,8 @@ layout: default
         <li>HDD Space: 65GB.</li>
       </ol>
 
-    
+     
+
     {{ content }}
 
     {% if site.data.previous_offering and site.data.previous_offering.offerings and site.data.previous_offering.offerings.size > 0 %}
@@ -40,6 +41,11 @@ layout: default
     <ul class="previous-offerings">
     {% for offer in site.data.previous_offering.offerings %}
     <li><a href="{{ offer.url }}">{{offer.title}}</a></li>
+
+
+
+
+
     {% endfor %}
     </ul>
     {% endif %}
@@ -80,8 +86,18 @@ layout: default
                     <p>{{ta.name}}</p>
                     {% endif %}
                 </div>
+                
                 {% endfor %}
             </div>
         </div>
     </div>
+    <h1>Powered by </h1>
+
+    <a href="https://www.paho.org/en/panaftosa"><img src="https://github.com/ncespedesc/logos_nc_state/blob/main/pahologo.png?raw=true" align="center" width="300" ></a>
+    <a href="http://www.fundesa.com.br/"><img src="https://github.com/ncespedesc/logos_nc_state/blob/main/fundesalogo.jpg?raw=true" align="left" width="300" ></a>
+    <a href="https://cvm.ncsu.edu/about/"><img src="https://github.com/ncespedesc/logos_nc_state/blob/main/ncstate-type-4x1-red-min.png?raw=true" align="right" width="300" ></a>
+    <a href="https://www.agricultura.rs.gov.br/inicial"><img src="https://github.com/ncespedesc/logos_nc_state/blob/main/seapilogo.png?raw=true" align="center" width="300" ></a>
+
+
+
 </div>
