@@ -1,25 +1,24 @@
 ---
 type: assignment
-date: 2023-05-03T4:00:00+4:30
-title: 'Assignment # 3 - Recognize routes of transmission (Deadline 05/25/2023' 
+date: 2023-05-20T8:00:00+4:30
+title: 'Assignment # 3 - Recognize routes of transmission (Deadline 05/25/2023'
+pdf: /static_files/presentations/1-s2.0-S1879625717300962-main.pdf
 due_event: 
     type: due
-    date: 2023-05-25T0:00:00+4:30
+    date: 2023-05-25T8:00:00+4:30
     description: 'Recognize routes of transmission'
 ---
 # Understanding the transmission of foot-and-mouth disease virus at different scales
 
 ## **Pre-workshop activities**
-Dear participant, we will work with data modeling and disease model simulations. However, to explore the full potential of the model, make it easier to understand and propose control action and follow all activities, the participants should have a minimum of knowledge about modeling. Thus, the next activities are aimed to leave all the participants on the same page. 
+Dear participant, we will work with data modeling and disease model simulations. However, to explore the full potential of the model, make it easier to understand and propose control action and follow all activities, the participants should have a minimum of knowledge about modeling. Thus, the next activities aim to leave all the participants on the same page. 
 
 ## **Second assignment**
-Please, read the manuscript title “Understanding the transmission of foot-and-mouth disease virus at different scales” which can be accessed by [**clicking here**](https://doi.org/10.1016/j.coviro.2017.11.013). Once you have read the article, please reply to the following questions. Please do not exceed a maximum of one page in total. The document containing your answers should also include your name and institution. Answers can be submitted as a Word document or a PDF file.
+Please, read the manuscript title “Understanding the transmission of foot-and-mouth disease virus at different scales,” which can be accessed by [**clicking here**](https://doi.org/10.1016/j.coviro.2017.11.013). Once you have read the article, please reply to the following questions. Please do not exceed a maximum of one page in total. The document containing your answers should also include your name and institution. Answers can be submitted as a Word document or a PDF file.
 
 ## Questions
 1. Briefly describe the role of the carries in transmission
 2. Please cite the main transmission routes for FMD 
-
-
 
 # Spanish version
 

@@ -1,20 +1,20 @@
 ---
 type: assignment
-date: 2023-05-01T4:00:00+4:30
+date: 2023-05-10T8:00:00+4:30
 title: 'Assignment # 1 - Introduction to disease spread (Dealine 05/12/2023)'
 pdf: /static_files/presentations/fvets-07-546651.pdf
 due_event: 
     type: due
-    date: 2023-05-12T0:00:00+4:30
+    date: 2023-05-12T8:00:00+4:30
     description: 'Introduction to disease spread'
 ---
 # A Practical Introduction to Mechanistic Modeling of Disease Transmission in Veterinary Science
 
 ## **Pre-workshop activities**
-Dear participant, we will work with data modeling and disease model simulations. However, to explore the full potential of the model, make it easier to understand and propose control action and follow all activities, the participants should have a minimum of knowledge about modeling. Thus, the next activities are aimed to leave all the participants on the same page. 
+Dear participant, we will work with data modeling and disease model simulations. However, to explore the full potential of the model, make it easier to understand and propose control action and follow all activities, the participants should have a minimum of knowledge about modeling. Thus, the next activities aim to leave all the participants on the same page. 
 
 ## **First activity**
-Please, read the manuscript title “A Practical Introduction to Mechanistic Modeling of Disease Transmission in Veterinary Science”, you can download by [**clicking here**](https://www.frontiersin.org/articles/10.3389/fvets.2020.546651/full).
+Please, read the manuscript title “A Practical Introduction to Mechanistic Modeling of Disease Transmission in Veterinary Science”, you can download it by [**clicking here**](https://www.frontiersin.org/articles/10.3389/fvets.2020.546651/full).
 Then, please reply to the following question in a maximum of one page.  The document should contain your name and institution and could be sent in either a Word document or a PDF file. 
 
 ## **Questions**
